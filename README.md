@@ -11,4 +11,4 @@ Pour cela vous utiliserez une class **User** et une class **UserManager** pour g
 
 #### Detail 
 
-Vous devez travailler avec des objets la note sera basé sur votre capacité à les utiliser.
+Vous devez travailler avec des objets, la note sera basé sur votre capacité à les utiliser.
